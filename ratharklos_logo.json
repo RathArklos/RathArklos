@@ -2,57 +2,15 @@
 	"Images": [
     	{
         	"URL": "raw.githubusercontent.com/RathArklos/RathArklos/main/ratharklos256v2_.png",
-        	"Pos": "TopLeft",
-        	"Persist": true,
-        	"FadeTime": 5
-    	},
-    	{
-        	"URL": "raw.githubusercontent.com/RathArklos/RathArklos/main/ratharklos256v2_.png",
-        	"Pos": "TopMid",
-        	"Persist": true,
-        	"FadeTime": 5
-    	},
-    	{
-        	"URL": "raw.githubusercontent.com/RathArklos/RathArklos/main/ratharklos256v2_.png",
-        	"Pos": "TopRight",
-        	"Persist": true,
-        	"FadeTime": 5
-    	},
-    	{
-        	"URL": "raw.githubusercontent.com/RathArklos/RathArklos/main/ratharklos256v2_.png",
-        	"Pos": "MidLeft",
-        	"Persist": true,
-        	"FadeTime": 5
-    	},
-    	{
-        	"URL": "raw.githubusercontent.com/RathArklos/RathArklos/main/ratharklos256v2_.png",
         	"Pos": "MidMid",
         	"Persist": true,
         	"FadeTime": 5
     	},
     	{
-        	"URL": "raw.githubusercontent.com/RathArklos/RathArklos/main/ratharklos256v2_.png",
-        	"Pos": "MidRight",
-        	"Persist": true,
-        	"FadeTime": 5
-    	},
-    	{
-        	"URL": "raw.githubusercontent.com/RathArklos/RathArklos/main/ratharklos256v2_.png",
+        	"URL": "raw.githubusercontent.com/RathArklos/RathArklos/refs/heads/main/ratharklos256vfin.png",
         	"Pos": "BottomLeft",
-        	"Persist": false,
-        	"FadeTime": 5
-    	},
-    	{
-        	"URL": "raw.githubusercontent.com/RathArklos/RathArklos/main/ratharklos256v2_.png",
-        	"Pos": "BottomMid",
         	"Persist": true,
         	"FadeTime": 5
     	},
-    	{
-        	"URL": "raw.githubusercontent.com/RathArklos/RathArklos/main/ratharklos256v2_.png",
-        	"Pos": "BottomRight",
-        	"Persist": true,
-        	"FadeTime": 5
-    	}
 	]
 }

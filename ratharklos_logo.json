@@ -1,9 +1,9 @@
 {
 	"Images": [
     	{
-        	"URL": "https://drive.google.com/uc?id=1vZDPI-5mSH53npyq2JKkWy42x25ut842",
+        	"URL": "raw.githubusercontent.com/RathArklos/RathArklos/main/356rathark.png",
         	"Pos": "BottomLeft",
-        	"Persist": false,
+        	"Persist": true,
         	"FadeTime": 5
     	},
 	]

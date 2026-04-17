@@ -3,8 +3,8 @@
     	{
         	"URL": "raw.githubusercontent.com/RathArklos/RathArklos/main/356rathark.png",
         	"Pos": "BottomLeft",
-        	"Persist": true,
-        	"FadeTime": 5
+        	"Persist": false,
+        	"FadeTime": 180
     	},
 	]
 }

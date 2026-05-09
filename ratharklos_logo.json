@@ -4,13 +4,13 @@
         	"URL": "raw.githubusercontent.com/RathArklos/RathArklos/main/discordjoinrathfin.png",
         	"Pos": "TopRight",
         	"Persist": false,
-        	"FadeTime": 180
+        	"FadeTime": 60
     	},
 		{
         	"URL": "raw.githubusercontent.com/RathArklos/RathArklos/main/ratharkdesignlog.png",
         	"Pos": "BottomLeft",
         	"Persist": false,
-        	"FadeTime": 180
+        	"FadeTime": 120
     	},
 	]
 }

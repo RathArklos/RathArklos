@@ -7,7 +7,7 @@
         	"FadeTime": 60
     	},
 		{
-        	"URL": "https://raw.githubusercontent.com/RathArklos/RathArklos/main/tinyratharkdesignlog.png",
+        	"URL": "raw.githubusercontent.com/RathArklos/RathArklos/main/tinyratharkdesignlog.png",
         	"Pos": "BottomLeft",
         	"Persist": false,
         	"FadeTime": 120
